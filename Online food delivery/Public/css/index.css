@@ -1,0 +1,165 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+#A{
+    background-color: rgb(0, 0, 0);
+    padding: 25px;
+}
+#Z{
+    margin-right: 900px;
+    
+}
+#A img{
+    height: 35px;
+    width:35px;
+
+}
+#A nav{
+    text-align: right;
+    position: sticky;
+    
+    
+    
+}
+#A a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px;
+    font-size: larger;
+    margin-bottom: 0px;
+    
+    
+}
+#B{
+    background-image: url(https://cdn.pixabay.com/photo/2021/02/19/07/38/delivery-man-6029429_1280.png);
+    height:600px;
+    
+    background-size: cover;
+    
+    
+    
+    
+}
+#B h2{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    padding-top: 100px;
+    font-size: 55px;
+}
+#B p{
+    margin: auto;
+    text-align: justify;
+    width: 500px;
+    padding-top: 30px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+#B button{
+        color: black;
+        background-color: rgb(90, 216, 238);
+        padding: 10px;
+        border: 2px;
+        border-style: solid;
+        border-color: black;
+        border-radius: 50px;
+        margin-left: 700px;  
+        margin-top: 30px; 
+
+       
+        
+}
+#B a{
+    
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+#C h2{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 55px;
+
+}
+#C1{
+    display: flex;
+    justify-content: center;
+}
+.C2{
+    width:300px;
+    margin: 30px;
+    text-align: center;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    border-radius: 50px;
+    
+    
+    
+}
+.C2 h3{
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+.C2 p{
+    text-align: justify;
+    padding: 30px;
+}
+.C2 img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20px;
+}
+#D{
+    background-color:rgb(116, 116, 116);
+}
+#D1{
+    display: flex;
+    justify-content: space-evenly;
+    height:400px;
+}
+#D h1{
+    text-align: center;
+    padding: 50px;
+    font-size: 55px;
+    color: aliceblue;
+}
+.D2{
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    height: 300px;
+}
+#E{
+    background-color: black;
+    height: 600px;
+}
+#E h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 55px;
+    padding: 30px;
+}
+#E1{
+    color: aliceblue;
+    margin: auto;
+    
+    width: 400px;
+    
+}
+label{
+    font-size: 25px;
+}
+#E1 input
+{
+    padding: 15px;
+    border-radius: 50px;
+}
+#E1 textarea{
+    border-radius: 50px;
+}

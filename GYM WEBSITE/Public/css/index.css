@@ -1,0 +1,102 @@
+* {
+  margin: 0%;
+  padding: 0%;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#A {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  height: 140px;
+}
+#A a {
+  color: white;
+  text-decoration: none;
+  font-size: larger;
+  margin: 10px;
+}
+#A nav {
+  text-align: right;
+  padding: 15px;
+}
+#A h2 {
+  width: 100px;
+  text-align: left;
+  color: aliceblue;
+  background-color: rgb(0, 0, 0);
+  margin-bottom: -50px;
+}
+#A button {
+  border: 2px;
+  border-color: aliceblue;
+  border-style: solid;
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+}
+#A6 {
+  padding-top: 20px;
+}
+
+#B {
+  border: 2px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  width: 650px;
+  border-radius: 50px;
+  margin-left: 150px;
+  margin-top: 50px;
+  background-color: black;
+  height: 700px;
+  margin-bottom: 50px;
+}
+
+#B form {
+  margin: auto;
+  background-color: rgb(0, 0, 0);
+  width: 500px;
+  margin-top: 20px;
+}
+#B input {
+  margin: 10px;
+  padding: 20px;
+  border-radius: 20px;
+  border-color: whitesmoke;
+  text-align: center;
+}
+
+#A button {
+  border-radius: 100px;
+}
+#B h2 {
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+}
+#B button {
+  background-color: black;
+  border-radius: 100px;
+  border-color: white;
+  margin-left: 180px;
+  padding: 25px;
+  margin-top: 25px;
+}
+#B a {
+  color: white;
+  text-decoration: none;
+  font-size: larger;
+  margin: 10px;
+  padding: 75px;
+}
+#F {
+  background-image: url(https://t3.ftcdn.net/jpg/01/19/59/74/360_F_119597487_SnvLBdheEGOxu05rMQ5tCzo250cRrTz9.jpg);
+  background-size: cover;
+  margin: 0%;
+  height: 800px;
+  padding-top: 25px;
+}
+::placeholder {
+  font-size: 20px;
+}
+
